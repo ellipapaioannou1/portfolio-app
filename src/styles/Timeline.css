@@ -1,0 +1,17 @@
+.vertical-timeline::before {
+    /* this is the vertical line */
+  
+    background: rgb(252, 252, 252) !important;
+  }
+
+.vertical-timeline-element-date {
+    text-align: left;
+    
+    }
+
+.experience {
+   
+ padding-top: 0.1px;
+   background-color: rgb(228, 227, 227);
+}
+
